@@ -18,6 +18,8 @@ Site: https://github.com/cvitae/apprentissage/
 
 Adresse: Rue Marthe Mourbel
 
-Ville: Angers
+# Localisation
 
 Pays: France
+
+Ville: Angers, Belle-Beille
